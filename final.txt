@@ -1,7 +1,0 @@
-6
-1200 Isaac Newton 86.00
-4580 Alan Turing 80.00
-4200 Carlos Capili 100.00
-9000 Elvis Presley 86.50
-12340 Donald Trump 38.50
-14000 LeBron James 95.00
