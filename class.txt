@@ -1,5 +1,0 @@
-ID:1200, Name:Isaac Newton, Project 1 Grade:80, Project 2 Grade:92, Final Grade: 86.00
-ID:4580, Name:Alan Turing, Project 1 Grade:86, Project 2 Grade:74, Final Grade: 80.00
-ID:4200, Name:Carlos Capili, Project 1 Grade:100, Project 2 Grade:100, Final Grade: 100.00
-ID:9000, Name:Elvis Presley, Project 1 Grade:95, Project 2 Grade:78, Final Grade: 86.50
-ID:12340, Name:Donald Trump, Project 1 Grade:0, Project 2 Grade:0, Final Grade: 0.00
