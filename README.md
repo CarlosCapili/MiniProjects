@@ -1,6 +1,7 @@
 # MiniProjects
 Collection of programming projects in C and Java
 
-1. Managing Classrooms (enter grades, add/remove students, etc)
-2. Credit Card Validation
-3. Eco School Power
+1. Classroom Managment System - C
+2. Credit Card Validation - Java
+3. Eco School Power - Java
+4. Maze Sovler - Java
